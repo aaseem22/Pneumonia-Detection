@@ -8,6 +8,5 @@ __pycache__/
 # Streamlit
 .streamlit/
 
-# Model files (optional if large)
+# Model files (optional)
 *.h5
-
