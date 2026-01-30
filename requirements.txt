@@ -1,0 +1,9 @@
+tensorflow==2.13.0
+streamlit==1.31.0
+numpy
+opencv-python
+pillow
+matplotlib
+scikit-learn
+seaborn
+opencv-python-headless
